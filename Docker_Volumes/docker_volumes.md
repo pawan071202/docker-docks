@@ -14,7 +14,7 @@ Docker has 3 options for containers to store files in the host machine, so that 
 
 ### docker volume types: 
 1. anonymous volumes
-1. named voluems
+1. named volumes
 1. host volume or bind volumes
  
 #### Anonymous Volumes
